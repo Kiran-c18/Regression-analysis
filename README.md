@@ -1,2 +1,2 @@
 # Regression-analysis
-Simple and Multilinear regression
+Simple linear regression, Multilinear regression,logistic regression
